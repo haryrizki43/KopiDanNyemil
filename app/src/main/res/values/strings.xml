@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Kopi dan Nyemil</string>
+    <string name="tagline">Kopi hangat, camilan favorit, dan waktu yang lebih istimewa.</string>
+    <string name="logo">Logo</string>
+    <string name="start_now">Mulai sekarang</string>
+    <string name="home_eyebrow">KOPI DAN NYEMIL</string>
+    <string name="home_promo">Temukan teman terbaik untuk setiap momenmu — dibuat segar, dinikmati dengan senang.</string>
+
+    <string name="signup_title">Selamat datang!</string>
+    <string name="signup_desc">Nikmati kopi pilihan dan camilan favorit. Masuk atau buat akun untuk mulai memesan.</string>
+    <string name="register">Buat akun</string>
+    <string name="login">Masuk</string>
+
+    <string name="login_title">Senang bertemu lagi</string>
+    <string name="register_title">Buat akun baru</string>
+    <string name="hint_username">Nama pengguna</string>
+    <string name="hint_password">Kata sandi</string>
+    <string name="hint_full_name">Nama lengkap</string>
+    <string name="belum_punya_akun">Daftar</string>
+    <string name="belum_punya_teks">Belum punya akun? </string>
+    <string name="daftar_teks">Daftar</string>
+    <string name="demo_info">Akun demo: demo / 123456</string>
+    <string name="err_kosong">Semua kolom wajib diisi</string>
+    <string name="err_login">Username atau password salah</string>
+    <string name="err_username_ada">Username sudah terdaftar</string>
+    <string name="err_password_pendek">Password minimal 6 karakter</string>
+    <string name="sukses_daftar">Pendaftaran berhasil</string>
+
+    <string name="halo_format">Halo %1$s,</string>
+    <string name="makanan">Makanan &amp; Minuman</string>
+    <string name="tambah">+ Tambah</string>
+    <string name="dipesan_format">Dipesan: %1$d</string>
+    <string name="keranjang_format">%1$d item • %2$s</string>
+    <string name="keranjang_kosong">Keranjang masih kosong</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_order">Order</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="profile_saya">Profil saya</string>
+    <string name="profile_setting">Perbarui nama agar kami tahu cara menyapamu.</string>
+    <string name="hint_nama">Nama</string>
+    <string name="save">Simpan perubahan</string>
+    <string name="logout">Keluar dari akun</string>
+    <string name="profile_tersimpan">Profile tersimpan</string>
+
+    <string name="alamat_title">Alamat</string>
+    <string name="hint_nama_lengkap">Nama Lengkap</string>
+    <string name="hint_alamat">Alamat</string>
+    <string name="hint_patokan">Patokan atau detail lengkap</string>
+    <string name="ringkasan">Ringkasan Pesanan</string>
+    <string name="total_format">Total: %1$s</string>
+    <string name="order_kirim">Order dan Kirim</string>
+    <string name="kembali">Kembali</string>
+    <string name="err_alamat">Nama dan alamat wajib diisi</string>
+    <string name="err_keranjang">Pilih menu dulu di halaman Home</string>
+
+    <string name="ok">OK</string>
+    <string name="terima_kasih">Terima kasih sudah memesan, tunggu aja sebentar kurir kami segera mengantarkan pesananmu!</string>
+    <string name="oke">Oke</string>
+    <string name="tamu">Pelanggan</string>
+</resources>

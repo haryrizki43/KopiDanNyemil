@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.KopiDanNyemil" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/dark</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
